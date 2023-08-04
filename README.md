@@ -1,9 +1,9 @@
-# SQL Music Store Analysis
+# **Music Store Data Analysis**
 
-# Overview :-
+# **Overview :-**
 **This repository contains a SQL-based music data analysis project where we explore and analyze a dataset related to music. The goal of this project is to gain insights into the music industry, understand trends, and make data-driven decisions. The project leverages SQL queries to interact with the database, extract meaningful information, and visualize the results.**
 
-# Features :-
+# **Features -**
 
 **1.	Who is the senior most employee based on job title?**
 
@@ -30,3 +30,9 @@
 **10. We want to find out the most popular music Genre for each country. We determine the most popular genre as the genre with the highest amount of purchases. Write a query that returns each country along with the top Genre. For countries where the maximum number of purchases is shared return all Genres.**
 
 **11. Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.**
+
+# **Tech Stack Used**
+
+![68747470733a2f2f696d672e69636f6e73382e636f6d2f6172636164652f3235362f73716c2e706e67](https://github.com/MohammedZahid3/SQL_Music_Store_Analysis/assets/96717126/8946895c-3c52-4b3b-bc29-832211c5869b)
+![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3235362f6d6963726f736f66742d657863656c2d323031392e706e67](https://github.com/MohammedZahid3/SQL_Music_Store_Analysis/assets/96717126/00cfb5ae-4a1b-43c8-afcd-69fba98da075)
+
