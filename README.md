@@ -36,3 +36,7 @@
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f6172636164652f3235362f73716c2e706e67](https://github.com/MohammedZahid3/SQL_Music_Store_Analysis/assets/96717126/8946895c-3c52-4b3b-bc29-832211c5869b)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3235362f6d6963726f736f66742d657863656c2d323031392e706e67](https://github.com/MohammedZahid3/SQL_Music_Store_Analysis/assets/96717126/00cfb5ae-4a1b-43c8-afcd-69fba98da075)
 
+# **DATA OVERVIEW**
+
+
+<img width="594" alt="schema_diagram" src="https://github.com/MohammedZahid3/SQL_Music_Store_Analysis/assets/96717126/cee9ce6f-6b15-4b99-b305-5bcf1376e550">
